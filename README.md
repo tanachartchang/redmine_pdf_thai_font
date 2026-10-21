@@ -40,7 +40,7 @@ No Redmine core files are modified, no settings, no database changes.
 
 ```bash
 cd /path/to/redmine/plugins
-git clone https://github.com/<your-github-username>/redmine_pdf_thai_font.git
+git clone https://github.com/tanachartchang/redmine_pdf_thai_font.git
 ```
 
 The folder name must be `redmine_pdf_thai_font`. Then restart Redmine, for example:
@@ -94,7 +94,7 @@ Redmine เลือก font ของ PDF ตาม**ภาษาของ user
 
 ```bash
 cd /path/to/redmine/plugins
-git clone https://github.com/<your-github-username>/redmine_pdf_thai_font.git
+git clone https://github.com/tanachartchang/redmine_pdf_thai_font.git
 ```
 
 ชื่อโฟลเดอร์ต้องเป็น `redmine_pdf_thai_font` แล้ว restart Redmine (Docker: `docker-compose restart redmine`)
